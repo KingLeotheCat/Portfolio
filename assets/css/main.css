@@ -1795,11 +1795,7 @@ ul.icons {
   #banner .highlights .content {
     background: #111111;
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
-  #banner .testimonials .content {
-    background: #111111;
-    box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
-    #banner .testimonials .content .credit strong {
-      color: #ce1b28; }
+ 
   #banner > .inner {
     -moz-transform: scale(1.0);
     -webkit-transform: scale(1.0);
@@ -2039,11 +2035,8 @@ ul.icons {
   #cta .highlights .content {
     background: #ce1b28;
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
-  #cta .testimonials .content {
-    background: #ce1b28;
-    box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
-    #cta .testimonials .content .credit strong {
-      color: #ce1b28; }
+
+
   #cta .inner {
     position: relative;
     z-index: 3; }
@@ -2181,11 +2174,7 @@ ul.icons {
   #footer .highlights .content {
     background: #111111;
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
-  #footer .testimonials .content {
-    background: #111111;
-    box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
-    #footer .testimonials .content .credit strong {
-      color: #ce1b28; }
+
   #footer a {
     color: rgba(255, 255, 255, 0.5);
     text-decoration: none; }
@@ -2483,11 +2472,8 @@ body {
   #heading .highlights .content {
     background: #111111;
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
-  #heading .testimonials .content {
-    background: #111111;
-    box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
-    #heading .testimonials .content .credit strong {
-      color: #ce1b28; }
+
+
   #heading:before {
     background: linear-gradient(135deg, #ce1b28 0%, #111111 74%);
     content: ' ';
