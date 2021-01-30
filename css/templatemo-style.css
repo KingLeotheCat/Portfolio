@@ -248,7 +248,11 @@ p {
   max-width: 680px;
   padding: 45px 45px 30px;
   margin-bottom: 95px;
-  align-items: center;
+  
+}
+
+.centered {
+  text-align: center;
 }
 
 .form-group {
