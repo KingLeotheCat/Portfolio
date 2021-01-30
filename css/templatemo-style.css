@@ -247,8 +247,8 @@ p {
   width: 100%;
   max-width: 680px;
   padding: 45px 45px 30px;
-  margin: auto;
-  
+  margin-bottom: 95px;
+  text-align: center;
   
 }
 
@@ -319,8 +319,8 @@ p {
   }
 
   .centered {
-    text-align: center;
-  }
+  text-align: center;
+}
 }
 
 @media (max-width: 730px) {
